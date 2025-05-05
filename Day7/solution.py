@@ -112,10 +112,10 @@ while start:
 # guessed = ""
 # while True:
 #     guess = input("Guess a letter: ").lower()
-#
+
 #     if guess in ans and guess not in guessed:
 #         guessed += guess
-#
+
 #     display = ""
 #
 #     for letter in ans:
@@ -124,11 +124,11 @@ while start:
 #         else:
 #             display += "_"
 #     print(display)
-#
+
 #     if "_" not in display:
 #         print("YOU ARE WINNER!!")
 #         break
-#
+
 
 
 
