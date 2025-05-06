@@ -6,7 +6,7 @@ def greet():
 greet()
 
 def life_in_weeks(age):
-    age_weeks = (90 - age) * 48
+    age_weeks = (90 - age) * 52
     print(f"You have {age_weeks} weeks left")
     return age_weeks
 
